@@ -1,0 +1,24 @@
+Summary
+The prime minister is dead, and both good and evil factions are ready to pick apart the bones and fill the power vacuum with their colours. 
+The local Mayor is Stormcaught, meaning they are totally safe to stay alive and win the game for their team unless the Reds can stop them somehow, 
+either with poison or other forms of subterfuge.
+
+Key Characters
+
+Mayor: 
+The Mayor is the ultimate tool for the good team, they cannot die at night (unless ruling that Assassin can kill a Storm Caught Mayor, which this script does support)
+and will require the evil team to come up with some clever bluffs to counteract or use some of their valuable poisoning resources to deal with.
+
+Legion: 
+There's nothing more dangerous than the cold hard hand of bureaucracy - and the players will be forced to be second guessing themselves 
+for most of the early game. Storytellers are encouraged to stoke the flames of Legion paranoia, 
+especially as it's the easiest way for a resourceful evil team to cast doubt on a Mayor claim.
+
+Engineer: 
+In a game with multiple dangerous Minions and different challenges presented by the Demons, 
+the Engineer's unique ability to set up the game is a very crucial decision in the early game. 
+Do you put in an Assassin or Harpy to give evil more firepower at the expense of durability? 
+Do you put in a Widow or Scarlet Woman to dull their offensive capabilities but instead give them extra bluffing capacity? 
+Do you throw in a Mezepheles and hope your teammates don't succumb to darkness? 
+Your existence is the ultimate tool to fighting Legion paranoia, but do you throw it away for unadulterated chaos? 
+The choice is yours.
